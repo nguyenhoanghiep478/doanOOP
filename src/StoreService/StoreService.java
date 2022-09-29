@@ -1,5 +1,5 @@
 package StoreService;
 
-public class StoreService {
+public class StoreService implements IStoreService{
 
 }
