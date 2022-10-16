@@ -1,5 +1,5 @@
 package Person;
 
-public class Manager {
+public class Manager extends Person{
 
 }
