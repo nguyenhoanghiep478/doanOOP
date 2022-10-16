@@ -1,5 +1,5 @@
 package Person;
 
-public class OrderEmployee {
+public class OrderEmployee extends Person{
 
 }
